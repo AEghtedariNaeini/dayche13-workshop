@@ -19,3 +19,7 @@ def peyman():
 def sobhan():
     return 'Hello from Sobhan!'
 
+@app.route('/Atefe')
+def atefe():
+    return 'Hello from Atefe!'
+
